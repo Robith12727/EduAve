@@ -1,1 +1,1 @@
-console.log("EDU AVE:Education For All.");
+console.log("EDU AVE: Education For All.");
